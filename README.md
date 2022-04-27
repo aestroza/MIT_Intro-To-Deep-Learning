@@ -1,6 +1,3 @@
-
-
-
 # MIT music generation on Windows
 Repo adaptating the "Software Lab 1" of MIT course "MIT Deep Learning 6.S191"
 to run on windows.
