@@ -19,7 +19,7 @@ Inside you'll find "Music_Generation_MIT_on_Windows.ipynb", to run this you have
 (READ WHAT IT SAYS)
 "https://ksvi.mff.cuni.cz/~dingle/2019/prog_1/python_music.html"
 
-3. Copy "FluidR3_GM.sf2" (a file you should've gotten from step 2 ) to the notebook folder.
+3. Copy "FluidR3_GM.sf2" (a file you should've gotten from step 2) to the notebook folder.
 
 4. Install pyFluidSynth from
 "https://github.com/nwhitehead/pyfluidsynth"
